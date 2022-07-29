@@ -1,0 +1,17 @@
+integer x
+integer y
+integer tempV
+
+x = Get next input
+y = Get next input
+
+//Swap 
+tempV = x
+
+x = y
+y = tempV
+
+Put x to output
+Put " " to output
+Put y to output
+Put "\n" to output

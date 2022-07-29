@@ -1,0 +1,18 @@
+integer array(5) userVals
+integer i
+
+i = 0
+
+while i< userVals.size
+   userVals[i] = Get next input
+   
+   i = i+1
+   
+i = 0
+
+while i < userVals.size
+   Put userVals[i] to output
+   Put " " to output
+   
+   i = i+1
+   

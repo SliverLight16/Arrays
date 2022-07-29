@@ -1,0 +1,10 @@
+integer array(5) userVals
+integer i
+
+i = 0
+
+while i < userVals.size
+   userVals[i] = -1
+   
+   i = i+1
+   

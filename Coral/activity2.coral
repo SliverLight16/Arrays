@@ -1,0 +1,18 @@
+integer array(5) oldestPpl
+integer nthPerson
+integer personAge
+
+oldestPpl[0] = 122
+oldestPpl[1] = 119
+oldestPpl[2] = 117
+oldestPpl[3] = 117
+oldestPpl[4] = 116
+
+nthPerson = Get next input
+
+if ((nthPerson >= 1) and (nthPerson <= 5))
+   personAge = oldestPpl[nthPerson -1]
+   
+   Put nthPerson to output
+   Put "th oldest person died at age " to output
+   Put personAge to output

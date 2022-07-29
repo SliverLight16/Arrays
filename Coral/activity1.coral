@@ -1,0 +1,7 @@
+integer array(3) itemCounts
+
+itemCounts[0] = Get next input 
+itemCounts[1] = 99
+itemCounts[2] = itemCounts[0] * 2
+
+Put itemCounts[2] to output

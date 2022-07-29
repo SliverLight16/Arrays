@@ -1,0 +1,21 @@
+integer array(5) userVals
+integer i
+integer sumVal
+
+i = 0
+
+while i < userVals.size
+   userVals[i] = Get next input
+   
+   i = i+1
+   
+sumVal = 0
+i = 0
+
+while i < userVals.size
+   sumVal = sumVal + userVals[i]
+   
+   i = i+1
+   
+Put "Sum is " to output
+Put sumVal to output

@@ -1,0 +1,7 @@
+● Arrays - An array is a special variable that stores a list of data items, 
+
+● Element - Each item in an array is known as an element. 
+
+● Index -  the number in brackets of that element. 
+
+● Logical Error -  A logical error would be to initialize maxVal to 0, because 0 is not in fact the largest value seen so far

@@ -1,0 +1,12 @@
+integer array(5) userNums
+
+userNums[0] = 11
+userNums[1] = 77
+userNums[2] = 22
+userNums[3] = 55
+userNums[4] = 33
+
+userNums[0] = 33
+userNums[1] = 55
+userNums[3] = 77
+userNums[4] = 11

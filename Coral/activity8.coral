@@ -1,0 +1,23 @@
+integer array(4) userVals
+integer i
+integer maxVal
+
+i = 0
+
+while i < userVals.size
+   userVals[i] = Get next input
+   
+   i = i+1
+   
+maxVal = userVals[0]
+i = 0
+
+while i < userVals.size
+   
+   if userVals[i] > maxVal
+      maxVal = userVals[i]
+   
+   i = i+1
+   
+Put "Max is " to output
+Put maxVal to output

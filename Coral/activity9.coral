@@ -1,0 +1,11 @@
+integer array(4) userVals
+integer i
+integer sumVal
+
+i = 0
+
+while i < 5
+   userVals[i] = Get next input
+   
+   i = i+1
+   
